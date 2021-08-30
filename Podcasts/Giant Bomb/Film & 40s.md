@@ -40,7 +40,7 @@ Giant Bomb - Film & 40s
 | Movie Duration       | `01:34:08`     |
 
 ### Advanced Settings:
-  - [They Live.json](Podcasts/Giant%20Bomb/Settings/They%20Live.json?raw=1)
+  - [They Live.json](Settings/They%20Live.json?raw=1)
 ### Notes:
 - There is a brief hiccup where the movie pauses at `01:28:10.917` and resumes at `01:28:12.917`
 
