@@ -1,0 +1,11 @@
+{
+  "movieCutPoints": [
+    {
+      "cutPointMs": 3544207,
+      "type": "pause",
+      "padMode": "clone",
+      "durationMs": 8426
+    }
+  ],
+  "movieStartTime": "00:16:30.114"
+}

@@ -1,0 +1,10 @@
+{
+  "podCutPoints": [
+    {
+      "cutPointMs": 5290917,
+      "type": "skip",
+      "durationMs": 2000
+    }
+  ],
+  "movieStartTime": "00:03:14.500"
+}

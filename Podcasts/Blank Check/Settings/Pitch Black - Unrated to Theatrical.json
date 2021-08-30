@@ -1,0 +1,40 @@
+{
+  "movieStartTime": "00:12:30.500",
+  "movieCutPoints": [
+    {
+      "cutPointMs": 1060184,
+      "type": "skip",
+      "durationMs": 25943
+    },
+    {
+      "cutPointMs": 1339171,
+      "type": "skip",
+      "durationMs": 5172
+    },
+    {
+      "cutPointMs": 1908990,
+      "type": "skip",
+      "durationMs": 38038
+    },
+    {
+      "cutPointMs": 2368408,
+      "type": "skip",
+      "durationMs": 58308
+    },
+    {
+      "cutPointMs": 2836250,
+      "type": "skip",
+      "durationMs": 34535
+    },
+    {
+      "cutPointMs": 2897812,
+      "type": "skip",
+      "durationMs": 13263
+    },
+    {
+      "cutPointMs": 3313477,
+      "type": "skip",
+      "durationMs": 44503
+    }
+  ]
+}

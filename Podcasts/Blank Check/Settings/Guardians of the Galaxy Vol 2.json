@@ -1,0 +1,10 @@
+{
+  "movieStartTime": "00:07:55.392",
+  "podCutPoints": [
+    {
+      "durationMs": 4504,
+      "cutPointMs": 8406398,
+      "type": "pause"
+    }
+  ]
+}

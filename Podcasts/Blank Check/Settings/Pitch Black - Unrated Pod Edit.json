@@ -1,0 +1,40 @@
+{
+  "movieStartTime": "00:12:29.749",
+  "podCutPoints": [
+    {
+      "cutPointMs": 1858857,
+      "type": "pause",
+      "durationMs": 25943
+    },
+    {
+      "cutPointMs": 2070694,
+      "type": "pause",
+      "durationMs": 5172
+    },
+    {
+      "cutPointMs": 2654360,
+      "type": "pause",
+      "durationMs": 38080
+    },
+    {
+      "cutPointMs": 3041330,
+      "type": "pause",
+      "durationMs": 58267
+    },
+    {
+      "cutPointMs": 3465128,
+      "type": "pause",
+      "durationMs": 34534
+    },
+    {
+      "cutPointMs": 3519391,
+      "type": "pause",
+      "durationMs": 13222
+    },
+    {
+      "cutPointMs": 3891721,
+      "type": "pause",
+      "durationMs": 44544
+    }
+  ]
+}
