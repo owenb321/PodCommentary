@@ -8,6 +8,7 @@ Powershell script to sync up movie commentary podcasts to the movie they're comm
 - Handles pauses/skips in the movie that happen during the commentary record via advanced settings files.
 - Subtitles from the source file will be used if found, otherwise an external subtitle file can be added.
 - Outputs a video file with the new mix and the original movie audio as separate tracks
+- Tested on PowerShell Core (cross-platform) and PowerShell 5.1 (Windows-only)
 
 Movie start times for a handful of podcasts are listed in the [Podcasts section of this repo](Podcasts)
 
