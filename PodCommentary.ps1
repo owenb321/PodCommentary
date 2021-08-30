@@ -1,5 +1,5 @@
 #########
-#  AddPodcastCommentary
+#  PodCommentary
 #
 #  Features:
 #  - Mixes in commentary podcast audio alongside movie audio with auto-ducking
