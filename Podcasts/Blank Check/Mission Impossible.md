@@ -8,7 +8,7 @@ Blank Check - Mission: Impossible
 | Movie Duration       | `01:50:13`     |
 
 ### Advanced Settings:
-  - [Mission Impossible.json](Podcasts/Blank%20Check/Settings/Mission%20Impossible.json?raw=1)
+  - [Mission Impossible.json](Settings/Mission%20Impossible.json?raw=1)
 ### Notes:
 - The group does a pause to resync at `00:38:07.202` and resumes at `00:38:11.498`.
 

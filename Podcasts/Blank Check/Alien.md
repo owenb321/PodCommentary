@@ -1,4 +1,4 @@
-Alien
+Blank Check - Alien
 ===============
 [Alien (1979)](https://www.patreon.com/posts/alien-42223302)
 ---------------
@@ -49,7 +49,7 @@ Alien
 | Movie Duration       | `02:03:46`     |
 
 ### Advanced Settings:
-  - [Prometheus.json](Podcasts/Blank%20Check/Settings/Prometheus.json?raw=1)
+  - [Prometheus.json](Settings/Prometheus.json?raw=1)
 ### Notes:
 - Griffin fixes his audio recording and pauses the movie at `01:15:34.321`, resuming at `01:15:42.747`
 

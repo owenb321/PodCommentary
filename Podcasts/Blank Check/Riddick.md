@@ -11,8 +11,8 @@ Blank Check - Riddick
 
 ### Advanced Settings:
 - The unrated cut can be used with advanced settings, either removing the extra scenes from the movie (doesn't cut cleanly and leaves in a few extra frames) or padding out the podcast (will have sections with no commentary around where the deleted scenes take place).
-  - [Pitch Black - Unrated to Theatrical.json](Podcasts/Blank%20Check/Settings/Pitch%20Black%20-%20Unrated%20to%20Theatrical.json)
-  - [Pitch Black - Unrated Pod Edit.json](Podcasts/Blank%20Check/Settings/Pitch%20Black%20-%20Unrated%20Pod%20Edit.json)
+  - [Pitch Black - Unrated to Theatrical.json](Settings/Pitch%20Black%20-%20Unrated%20to%20Theatrical.json)
+  - [Pitch Black - Unrated Pod Edit.json](Settings/Pitch%20Black%20-%20Unrated%20Pod%20Edit.json)
 ### Notes:
 - Theatrical Cut (even though they say it's the Unrated Director's Cut)
 - They restart the movie towards the beginning after the initial countdown

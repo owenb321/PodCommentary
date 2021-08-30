@@ -63,7 +63,7 @@ Blank Check - Marvel Cinematic Universe
 | Movie Start Timecode | `00:02:44.414` |
 | Movie Duration       | `02:15:54`     |
 ### Advanced Settings:
-  - [Captain America - The Winter Soldier.json](Podcasts/Blank%20Check/Settings/Captain%20America%20-%20The%20Winter%20Soldier.json?raw=1)
+  - [Captain America - The Winter Soldier.json](Settings/Captain%20America%20-%20The%20Winter%20Soldier.json?raw=1)
 ### Notes:
 - Ben drops a beer can on the pause button at `00:49:42.188` and it resumes at `00:49:47.860`.
 
@@ -123,7 +123,7 @@ Blank Check - Marvel Cinematic Universe
 | Movie Duration       | `02:15:46`     |
 
 ### Advanced Settings:
-  - [Guardians of the Galaxy Vol 2.json](Podcasts/Blank%20Check/Settings/Guardians%20of%20the%20Galaxy%20Vol%202.json?raw=1)
+  - [Guardians of the Galaxy Vol 2.json](Settings/Guardians%20of%20the%20Galaxy%20Vol%202.json?raw=1)
 ### Notes:
 - Podcast stops recording at `02:20:06.398` and resumes after `00:00:04.504` of video have elapsed. This is during the end credits so sync may not be an issue.
 
@@ -142,7 +142,7 @@ Blank Check - Marvel Cinematic Universe
 | Movie Duration       | `02:10:31`     |
 
 ### Advanced Settings:
-  - [Thor Ragnarok.json](Podcasts/Blank%20Check/Settings/Thor%20Ragnarok.json?raw=1)
+  - [Thor Ragnarok.json](Settings/Thor%20Ragnarok.json?raw=1)
 ### Notes:
 - Apple TV shenanigans cause the audio to get out of sync about 46 minutes in
   - Cutting `00:00:10.301` of podcast audio at `00:46:46.304` will get it back in sync
@@ -176,7 +176,7 @@ Blank Check - Marvel Cinematic Universe
 | Movie Duration       | `02:03:42`     |
 
 ### Advanced Settings:
-  - [Captain Marvel.json](Podcasts/Blank%20Check/Settings/Captain%20Marvel.json?raw=1)
+  - [Captain Marvel.json](Settings/Captain%20Marvel.json?raw=1)
 ### Notes:
 - Audio issues at Big Nice cause the movie to pause at `01:58:50.206` and resume at `01:59:07.265`.
 
@@ -195,7 +195,7 @@ Blank Check - Marvel Cinematic Universe
 | Movie Duration       | `02:09:24`     |
 
 ### Advanced Settings:
-  - [Spider-Man - Far From Home.json](Podcasts/Blank%20Check/Settings/Spider-Man%20-%20Far%20From%20Home.json?raw=1)
+  - [Spider-Man - Far From Home.json](Settings/Spider-Man%20-%20Far%20From%20Home.json?raw=1)
 ### Notes:
 - The TV says goodbye, causing the movie to pause at `01:13:49.884` and resume at `01:14:07.318`
 - It freezes up again at `01:15:32.695` and resumes at `01:17:58.007`
