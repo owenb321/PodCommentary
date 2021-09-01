@@ -29,3 +29,13 @@ Blank Check - Riddick
 
 ### Notes:
 - Unrated Director's Cut
+
+[Riddick (2013)](https://www.patreon.com/posts/riddick-55607223)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:10:51.442` |
+| Movie Duration       | `02:06:47`     |
+
+### Notes:
+- Unrated Director's Cut
