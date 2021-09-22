@@ -5,6 +5,7 @@
   - [Crocodile Dundee](Blank%20Check/Crocodile%20Dundee.md)
   - [Marvel Cinematic Universe](Blank%20Check/MCU.md)
   - [Mission Impossible](Blank%20Check/Mission%20Impossible.md)
+  - [The Mummy](Blank%20Check/The%20Mummy.md)
   - [Other](Blank%20Check/Other.md)
   - [Riddick](Blank%20Check/Riddick.md)
   - [Star Trek](Blank%20Check/Star%20Trek.md)
