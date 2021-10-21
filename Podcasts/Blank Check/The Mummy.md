@@ -13,3 +13,10 @@ Blank Check - The Mummy
 |----------------------|----------------|
 | Movie Start Timecode | `00:06:35.687` |
 | Movie Duration       | `02:09:31`     |
+
+[The Mummy: Tomb of the Dragon Emperor (2008)](https://www.patreon.com/posts/mummy-tomb-of-57664251)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:12:34.754` |
+| Movie Duration       | `01:52:40`     |
