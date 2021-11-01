@@ -20,3 +20,10 @@ Blank Check - The Mummy
 |----------------------|----------------|
 | Movie Start Timecode | `00:12:34.754` |
 | Movie Duration       | `01:52:40`     |
+
+[The Mummy (2017)](https://www.patreon.com/posts/mummy-2017-58134249)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:22:51.870` |
+| Movie Duration       | `01:50:05`     |
