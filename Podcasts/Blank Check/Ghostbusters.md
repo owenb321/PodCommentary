@@ -23,3 +23,10 @@ Blank Check - Ghostbusters
 
 ### Notes:
 - Extended Edition
+
+[Ghostbusters: Afterlife (2021)](https://www.patreon.com/posts/ghostbusters-62838429)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:00:52.010` |
+| Movie Duration       | `02:03:56`     |
