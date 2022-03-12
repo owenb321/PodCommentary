@@ -50,3 +50,10 @@ Giant Bomb - Film & 40s
 |----------------------|----------------|
 | Movie Start Timecode | `00:02:28.083` |
 | Movie Duration       | `01:14:26`     |
+
+[Silent Hill (2006)](https://www.giantbomb.com/shows/silent-hill-2006/2970-21484)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:05:07.390` |
+| Movie Duration       | `02:05:31`     |
