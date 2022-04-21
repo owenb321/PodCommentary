@@ -20,3 +20,10 @@ Blank Check - The Matrix
 |----------------------|----------------|
 | Movie Start Timecode | `00:01:21.915` |
 | Movie Duration       | `02:09:15`     |
+
+[The Matrix Resurrections (2021)](https://www.patreon.com/posts/matrix-65408894)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:01:37.931` |
+| Movie Duration       | `02:27:57`     |
