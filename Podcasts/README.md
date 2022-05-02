@@ -1,6 +1,7 @@
 # Podcast Sync Info
 
 - ## Blank Check
+  - [#NotAllBatmen](Blank%20Check/%23NotAllBatmen.md)
   - [Alien](Blank%20Check/Alien.md)
   - [Crocodile Dundee](Blank%20Check/Crocodile%20Dundee.md)
   - [Ghostbusters](Blank%20Check/Ghostbusters.md)
