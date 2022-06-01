@@ -13,3 +13,10 @@ Blank Check - #NotAllBatmen
 |----------------------|----------------|
 | Movie Start Timecode | `00:07:45.382` |
 | Movie Duration       | `01:16:27`     |
+
+[Batman Forever](https://www.patreon.com/posts/batman-forever-67169952)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:25:47.838` |
+| Movie Duration       | `02:01:35`     |
