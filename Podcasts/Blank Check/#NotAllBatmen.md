@@ -20,3 +20,10 @@ Blank Check - #NotAllBatmen
 |----------------------|----------------|
 | Movie Start Timecode | `00:25:47.838` |
 | Movie Duration       | `02:01:35`     |
+
+[Batman & Robin](https://www.patreon.com/posts/batman-robin-68039187)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:01:56.241` |
+| Movie Duration       | `02:04:53`     |
