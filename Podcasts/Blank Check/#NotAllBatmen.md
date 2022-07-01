@@ -27,3 +27,13 @@ Blank Check - #NotAllBatmen
 |----------------------|----------------|
 | Movie Start Timecode | `00:01:56.241` |
 | Movie Duration       | `02:04:53`     |
+
+[Batman v Superman: Dawn of Justice](https://www.patreon.com/posts/batman-v-dawn-of-68496408)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:00:55.055` |
+| Movie Duration       | `03:02:33`     |
+
+### Notes:
+- Ultimate Edition
