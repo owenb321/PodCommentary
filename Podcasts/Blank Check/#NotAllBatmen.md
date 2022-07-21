@@ -37,3 +37,10 @@ Blank Check - #NotAllBatmen
 
 ### Notes:
 - Ultimate Edition
+
+[The Lego Batman Movie](https://www.patreon.com/posts/lego-batman-69341882)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:03:09.315` |
+| Movie Duration       | `01:44:30`     |
