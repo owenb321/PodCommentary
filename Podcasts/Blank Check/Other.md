@@ -23,3 +23,16 @@ Blank Check - Other
 ### Notes:  
 - The film pauses many times so that Griffin can unpack the illogic of the situation. Use the advanced settings file to edit in the pauses.
 - Live Show
+
+[Sully (2016)](https://www.patreon.com/posts/sully-blank-live-70350210)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:09:48.588` |
+| Movie Duration       | `01:35:50`     |
+
+### Advanced Settings:
+  - [Sully.json](Settings/Sully.json?raw=1)
+### Notes:
+  - Technical difficulties cause several video interruptions. Use the advanced settings file to edit in the pauses.
+  - Live show
