@@ -1,0 +1,23 @@
+{
+    "movieStartTime": "00:09:48.588",
+    "movieCutPoints": [
+        {
+            "cutPointMs": 1441482,
+            "type": "pause",
+            "durationMs": 150650,
+            "padMode": "add"
+        },
+        {
+            "cutPointMs": 1734942,
+            "type": "pause",
+            "durationMs": 473098,
+            "padMode": "add"
+        },
+        {
+            "cutPointMs": 2130670,
+            "type": "pause",
+            "durationMs": 159243,
+            "padMode": "add"
+        }
+    ]
+}
