@@ -709,6 +709,9 @@ if($avoidVideoTranscode) {
     elseif ($codecname -eq 'hevc') {
         $outputVideoCodec = "-c:v libx265 -profile:v $videoprofile -level:v $videolevel -pix_fmt $pixfmt"
     }
+    elseif ($codecname -eq 'av1') {
+        $outputVideoCodec = "-c:v libaom-av1 -profile:v $videoprofile -level:v $videolevel -pix_fmt $pixfmt"
+    }
     else {
         throw "Input video is not h264/h265, unable to copy the video stream. Include an outputVideoCodec parameter to reencode instead"
     }
