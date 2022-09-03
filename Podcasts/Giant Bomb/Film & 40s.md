@@ -57,3 +57,10 @@ Giant Bomb - Film & 40s
 |----------------------|----------------|
 | Movie Start Timecode | `00:05:07.390` |
 | Movie Duration       | `02:05:31`     |
+
+[The Terminator (1984)](https://www.giantbomb.com/shows/the-terminator-1984/2970-21831)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:02:39.368` |
+| Movie Duration       | `01:47:13`     |
