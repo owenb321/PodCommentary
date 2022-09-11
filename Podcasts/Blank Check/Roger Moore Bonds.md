@@ -13,3 +13,10 @@ Blank Check - Roger Moore Bonds
 |----------------------|----------------|
 | Movie Start Timecode | `00:03:26.623` |
 | Movie Duration       | `02:05:13`     |
+
+[The Spy Who Loved Me (1977)](https://www.patreon.com/posts/spy-who-loved-me-71811731)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:07:11.973` |
+| Movie Duration       | `02:05:40`     |
