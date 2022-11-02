@@ -34,3 +34,10 @@ Blank Check - Roger Moore Bonds
 |----------------------|----------------|
 | Movie Start Timecode | `00:06:11.371` |
 | Movie Duration       | `02:07:59`     |
+
+[Octopussy (1983)](https://www.patreon.com/posts/octopussy-74035948)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:08:49.529` |
+| Movie Duration       | `02:10:48`     |
