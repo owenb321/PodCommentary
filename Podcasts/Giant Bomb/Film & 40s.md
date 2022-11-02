@@ -64,3 +64,17 @@ Giant Bomb - Film & 40s
 |----------------------|----------------|
 | Movie Start Timecode | `00:02:39.368` |
 | Movie Duration       | `01:47:13`     |
+
+[Road House (1989)](https://www.giantbomb.com/shows/road-house-1989/2970-21920)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:02:44.373` |
+| Movie Duration       | `01:54:09`     |
+
+[Hellraiser (1987)](https://www.giantbomb.com/shows/hellraiser-1987/2970-21941)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:03:11.024` |
+| Movie Duration       | `01:33:20`     |
