@@ -41,3 +41,10 @@ Blank Check - Roger Moore Bonds
 |----------------------|----------------|
 | Movie Start Timecode | `00:08:49.529` |
 | Movie Duration       | `02:10:48`     |
+
+[A View to a Kill (1985)](https://www.patreon.com/posts/view-to-kill-74916094)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:10:00.850` |
+| Movie Duration       | `02:11:18`     |
