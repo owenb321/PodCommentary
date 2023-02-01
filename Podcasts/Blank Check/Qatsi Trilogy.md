@@ -13,3 +13,16 @@ Blank Check - Qatsi Trilogy
 |----------------------|----------------|
 | Movie Start Timecode | `00:06:39.566` |
 | Movie Duration       | `01:39:53`     |
+
+### Notes:
+- Movie start timecode is synced to the Criterion Blu-Ray
+
+[Naqoyqatsi (2002)](https://www.patreon.com/posts/naqoyqatsi-78048446)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:01:34.803` |
+| Movie Duration       | `01:29:58`     |
+
+### Notes:
+- Movie start timecode is synced to the Criterion Blu-Ray
