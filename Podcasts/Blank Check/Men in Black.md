@@ -4,5 +4,5 @@ Blank Check - Men in Black
 ---------------
 | <!-- -->             | <!-- -->       |
 |----------------------|----------------|
-| Movie Start Timecode | `00:25:40.164` |
+| Movie Start Timecode | `00:25:38.787` |
 | Movie Duration       | `01:37:58`     |
