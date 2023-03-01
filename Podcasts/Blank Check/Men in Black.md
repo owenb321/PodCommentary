@@ -6,3 +6,10 @@ Blank Check - Men in Black
 |----------------------|----------------|
 | Movie Start Timecode | `00:25:38.787` |
 | Movie Duration       | `01:37:58`     |
+
+[Men in Black II (2002)](https://www.patreon.com/posts/men-in-black-ii-79377088)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:11:20.305` |
+| Movie Duration       | `01:28:08`     |
