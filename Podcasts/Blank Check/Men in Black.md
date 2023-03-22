@@ -13,3 +13,10 @@ Blank Check - Men in Black
 |----------------------|----------------|
 | Movie Start Timecode | `00:11:20.305` |
 | Movie Duration       | `01:28:08`     |
+
+[Men in Black 3 (2012)](https://www.patreon.com/posts/men-in-black-3-80318328)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:23:10.681` |
+| Movie Duration       | `01:45:50`     |
