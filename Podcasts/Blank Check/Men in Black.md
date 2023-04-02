@@ -20,3 +20,10 @@ Blank Check - Men in Black
 |----------------------|----------------|
 | Movie Start Timecode | `00:23:10.681` |
 | Movie Duration       | `01:45:50`     |
+
+[Men in Black: International (2019)](https://www.patreon.com/posts/men-in-black-80863111)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:01:58.869` |
+| Movie Duration       | `01:54:49`     |
