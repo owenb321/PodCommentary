@@ -1,0 +1,20 @@
+{
+  "movieStartTime": "00:08:36.440",
+  "movieCutPoints": [
+    {
+      "cutPointMs": 5480560,
+      "type": "skip",
+      "durationMs": 5922160
+    },
+    {
+      "cutPointMs": 12039480,
+      "type": "skip",
+      "durationMs": 399640
+    },
+    {
+      "cutPointMs": 14346400,
+      "type": "skip",
+      "durationMs": 42960
+    }
+  ]
+}

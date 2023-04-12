@@ -36,3 +36,17 @@ Blank Check - Other
 ### Notes:
   - Technical difficulties cause several video interruptions. Use the advanced settings file to edit in the pauses.
   - Live show
+
+[2012 Summer Olympics Opening Ceremony (2012)](https://www.patreon.com/posts/2012-summer-81343078)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:08:36.440` |
+| Movie Duration       | `03:59:49`     |
+
+### Advanced Settings:
+  - [Olympics 2012.json](Settings/Olympics%202012.json?raw=1)
+### Notes:
+- The event is on YouTube
+  - [The Complete London 2012 Opening Ceremony | London 2012 Olympic Games](https://www.youtube.com/watch?v=4As0e4de-rI)
+- They jump around the video while watching, use the advanced settings file to edit in the skips.
