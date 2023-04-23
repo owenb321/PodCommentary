@@ -12,6 +12,7 @@
   - [The Mummy](Blank%20Check/The%20Mummy.md)
   - [National Treasure](Blank%20Check/National%20Treasure.md)
   - [Other](Blank%20Check/Other.md)
+  - [Planet of the Apes](Blank%20Check/Planet%20of%20the%20Apes.md)
   - [Qatsi Trilogy](Blank%20Check/Qatsi%20Trilogy.md)
   - [Riddick](Blank%20Check/Riddick.md)
   - [Roger Moore Bonds](Blank%20Check/Roger%20Moore%20Bonds.md)
