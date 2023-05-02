@@ -7,7 +7,7 @@ Blank Check - Planet of the Apes
 | Movie Start Timecode | `00:08:33.596` |
 | Movie Duration       | `01:52:02`     |
 
-[Beneath the Planet of the Apes (1968)](https://www.patreon.com/posts/beneath-planet-82305145)
+[Beneath the Planet of the Apes (1970)](https://www.patreon.com/posts/beneath-planet-82305145)
 ---------------
 | <!-- -->             | <!-- -->       |
 |----------------------|----------------|
