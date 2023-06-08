@@ -20,3 +20,10 @@ Blank Check - Planet of the Apes
 |----------------------|----------------|
 | Movie Start Timecode | `00:11:04.372` |
 | Movie Duration       | `01:37:32`     |
+
+[Conquest of the Planet of the Apes (1972)](https://www.patreon.com/posts/conquest-of-of-83877074)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:06:31.433` |
+| Movie Duration       | `01:27:22`     |
