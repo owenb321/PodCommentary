@@ -27,3 +27,16 @@ Blank Check - Planet of the Apes
 |----------------------|----------------|
 | Movie Start Timecode | `00:06:31.433` |
 | Movie Duration       | `01:27:22`     |
+
+### Notes:
+- Unrated Cut
+
+[Battle for the Planet of the Apes (1973)](https://www.patreon.com/posts/battle-for-of-84877483)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:08:56.411` |
+| Movie Duration       | `01:26:32`     |
+
+### Notes:
+- Theatrical Cut
