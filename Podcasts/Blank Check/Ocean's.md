@@ -9,3 +9,10 @@ Blank Check - Ocean's
 
 ### Notes:
 - There is an early pause due to digital rain, the opening credits will be out of sync when using the above start timecode
+
+[Ocean's Eleven (2001)](https://www.patreon.com/posts/oceans-eleven-86285136)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:03:23.203` |
+| Movie Duration       | `01:56:34`     |
