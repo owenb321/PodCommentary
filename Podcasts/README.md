@@ -22,6 +22,7 @@
   - [The Santa Clause](Blank%20Check/The%20Santa%20Clause.md)
   - [Star Trek](Blank%20Check/Star%20Trek.md)
   - [Star Wars](Blank%20Check/Star%20Wars.md)
+  - [Terminator](Blank%20Check/Terminator.md)
   - [Toy Story](Blank%20Check/Toy%20Story.md)
   - [Twilight](Blank%20Check/Twilight.md)
 - ## Doughboys
