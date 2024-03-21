@@ -27,3 +27,10 @@ Blank Check - Terminator
 |----------------------|----------------|
 | Movie Start Timecode | `00:02:05.292` |
 | Movie Duration       | `01:54:46`     |
+
+[Terminator Genisys (2015)](https://www.patreon.com/posts/terminator-100718886)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:06:24.467` |
+| Movie Duration       | `02:05:43`     |
