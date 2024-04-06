@@ -34,3 +34,10 @@ Blank Check - Terminator
 |----------------------|----------------|
 | Movie Start Timecode | `00:06:24.467` |
 | Movie Duration       | `02:05:43`     |
+
+[Terminator: Dark Fate (2019)](https://www.patreon.com/posts/terminator-dark-101108751)
+---------------
+| <!-- -->             | <!-- -->       |
+|----------------------|----------------|
+| Movie Start Timecode | `00:07:48.468` |
+| Movie Duration       | `02:08:05`     |
