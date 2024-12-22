@@ -11,8 +11,11 @@ Blank Check - Terminator
 ---------------
 | <!-- -->             | <!-- -->       |
 |----------------------|----------------|
-| Movie Start Timecode | `00:05:39.214` |
-| Movie Duration       | `02:17:08`     |
+| Movie Start Timecode | `00:05:24.741` |
+| Movie Duration       | `02:17:07`     |
+
+### Notes:
+- Theatrical Cut
 
 [Terminator 3: Rise of the Machines (2003)](https://www.patreon.com/posts/terminator-3-of-98834089)
 ---------------
